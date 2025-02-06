@@ -1,0 +1,5 @@
+-- select min(percentage) as percentage, name, id, city from my;
+ -- select avg (percentage) as average from my; 
+-- select max(percentage) as percentage , name, id, city, phone from my;
+--  select * from my;
+-- select SUM(percentage) as total, name, id, city, phone from my;

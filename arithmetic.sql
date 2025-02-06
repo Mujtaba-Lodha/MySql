@@ -1,0 +1,11 @@
+select id, name, (percentage + 5) as "New Percentage" from personal;
+select pi() as PI;
+select round(4.55) as round;
+select ceil(1.50);
+select floor(4.440);
+select pow(2, 3);
+select round(rand() * 100 );
+select floor(7 + (rand() * 6));
+select id, name, percentage from personal order by rand();
+select abs(-50.90);
+select sign(25);
